@@ -2,12 +2,6 @@
 
 A desktop calculator built with **Python** and **Flet**, featuring a dark interface and a custom purple, teal, and amber color palette.
 
-## Preview
-
-![My Calculator v0.1](assets/calculator-screenshot.png)
-
-> Add the application screenshot at `assets/calculator-screenshot.png` to display it here.
-
 ## Features
 
 - Addition, subtraction, multiplication, and division
