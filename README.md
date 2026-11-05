@@ -14,19 +14,27 @@ A desktop calculator built with **Python** and **Flet**, featuring a dark interf
 ## Built With
 
 - Python
-- Flet
+- **Flet 0.28.0**
 - Python `math` module
+
+## Requirements
+
+- Python installed on your system
+- **Flet 0.28.0** (required)
+
+> **Important:** This project is intended to run with Flet `0.28.0`. Install this exact version instead of the latest Flet release. Newer versions may introduce API changes that are incompatible with this project's code.
 
 ## Run Locally
 
 1. Install Python.
-2. Install Flet:
+2. (Recommended) Create and activate a virtual environment.
+3. Install the required Flet version:
 
    ```bash
-   pip install flet
+   python -m pip install flet==0.28.0
    ```
 
-3. Run the application:
+4. Run the application:
 
    ```bash
    python MyCalculater.py
@@ -39,7 +47,7 @@ A desktop calculator built with **Python** and **Flet**, featuring a dark interf
 | Project | My Calculator |
 | Version | 0.1 |
 | Language | Python |
-| UI framework | Flet |
+| UI framework | Flet 0.28.0 |
 | Application type | Desktop |
 
 ---
