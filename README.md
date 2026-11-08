@@ -37,7 +37,7 @@ A desktop calculator built with **Python** and **Flet**, featuring a dark interf
 4. Run the application:
 
    ```bash
-   python MyCalculater.py
+   python MyCalculator.py
    ```
 
 ## Project Information
