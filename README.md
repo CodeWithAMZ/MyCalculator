@@ -14,15 +14,15 @@ A desktop calculator built with **Python** and **Flet**, featuring a dark interf
 ## Built With
 
 - Python
-- **Flet 0.28.0**
+- **Flet 0.28.3**
 - Python `math` module
 
 ## Requirements
 
 - Python installed on your system
-- **Flet 0.28.0** (required)
+- **Flet 0.28.3** (required)
 
-> **Important:** This project is intended to run with Flet `0.28.0`. Install this exact version instead of the latest Flet release. Newer versions may introduce API changes that are incompatible with this project's code.
+> **Important:** This project is intended to run with Flet `0.28.3`. Install this exact version instead of the latest Flet release. Newer versions may introduce API changes that are incompatible with this project's code.
 
 ## Run Locally
 
@@ -31,7 +31,7 @@ A desktop calculator built with **Python** and **Flet**, featuring a dark interf
 3. Install the required Flet version:
 
    ```bash
-   python -m pip install flet==0.28.0
+   python -m pip install flet==0.28.3
    ```
 
 4. Run the application:
@@ -47,7 +47,7 @@ A desktop calculator built with **Python** and **Flet**, featuring a dark interf
 | Project | My Calculator |
 | Version | 0.1 |
 | Language | Python |
-| UI framework | Flet 0.28.0 |
+| UI framework | Flet 0.28.3 |
 | Application type | Desktop |
 
 ---
